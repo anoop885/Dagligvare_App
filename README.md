@@ -89,5 +89,3 @@ app/src/main/java/no/uio/ifi/in2000/dagligvareapp/
    Gratis API-nøkkel får du ved å registrere deg på [kassal.app](https://kassal.app/api).
 
 4. Bygg og kjør appen på en emulator eller fysisk enhet
-
-`local.properties` er lagt til i `.gitignore` og skal ikke committes.
