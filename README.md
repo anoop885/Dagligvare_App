@@ -1,6 +1,6 @@
 # Dagligvare App
 
-En Android-app for å sammenligne matpriser og finne tilbud på tvers av norske dagligvarekjeder. Dette er et hobbyprosjekt og er ikke ment for kommersiell bruk. Appen er under aktiv utvikling og ikke ferdigstilt.
+En Android-app for å sammenligne matpriser og finne tilbud på tvers av norske dagligvarekjeder. Dette er et hobbyprosjekt som er kodet alene og er ikke ment for kommersiell bruk. Appen er under aktiv utvikling og ikke ferdigstilt.
 
 ---
 
